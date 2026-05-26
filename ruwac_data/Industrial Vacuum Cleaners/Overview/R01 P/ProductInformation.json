@@ -1,0 +1,56 @@
+{
+  "title": "R01 P",
+  "modelName": "R01 P",
+  "category": "Industrial Vacuum Cleaners",
+  "subcategory": "Overview",
+  "categoryPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models",
+  "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/r01-p",
+  "description": null,
+  "features": [
+    "24/7 operation possible",
+    "Pneumatic drive (injector) in V2A (corrosion-resistant)"
+  ],
+  "categoryImages": [
+    "druckluftantrieb-r01-p-dls1000-ruwac-freisteller-3318d.webp"
+  ],
+  "detailInfo": {
+    "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/r01-p",
+    "pageTitle": "R01 P",
+    "fullDescription": "7Extremely handyOptionally for the intake of carcinogenic, mutagenic or health-endangering substances (CMR substances)Compressed air drive (injector) in V2A (corrosion-resistant)Optionally with second compressed air injector for larger volume flows",
+    "technicalSpecs": {
+      "Housing": "GRP",
+      "Underpressure (mbar)": "-350",
+      "Air flow rate (m³/h) (measured with 3m hose)": "255 - 490",
+      "Sound pressure level (dB(A)) (DIN EN ISO 3744)": "<75 / >80",
+      "Pocket filter for dust class L, M (m²)": "1,2/2,6",
+      "Residual Dust filter for dust class H (m²)": "3,2",
+      "Height (mm) (for dust class L, M)": "970 - 1.223",
+      "Height (mm) (for dust class H)": "1.040 - 1.380",
+      "Width (mm)": "520",
+      "Length (mm)": "850",
+      "Capacity (litres)": "35",
+      "Suction connection (mm)": "50/70",
+      "Operation pressure (bar)": "5",
+      "Air flow rate (m³/h)": "175",
+      "Operation mode": "Compressed air",
+      "Drive": "Injector Venturi",
+      "GeKa coupling": "Compressed air connection 1/2\" (inch)"
+    },
+    "features": [],
+    "applications": [
+      "Additive manufacturing",
+      "Automotive",
+      "Construction + Craft",
+      "Chemistry",
+      "Industry general",
+      "Plastics processing",
+      "Agriculture",
+      "Food",
+      "Metalworking"
+    ],
+    "detailImages": [
+      "https://www.ruwac.asia/fileadmin/_processed_/2/c/csm_druckluftantrieb-r01-p-dls1000-ruwac-freisteller-3318d_16a636571e.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/2/c/csm_druckluftantrieb-r01-p-dls1000-ruwac-freisteller-3318d_7764ae91f1.png"
+    ]
+  }
+}

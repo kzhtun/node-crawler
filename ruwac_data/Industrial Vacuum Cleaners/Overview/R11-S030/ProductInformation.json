@@ -1,0 +1,70 @@
+{
+  "title": "R11-S030",
+  "modelName": "R11-S030",
+  "category": "Industrial Vacuum Cleaners",
+  "subcategory": "Overview",
+  "categoryPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models",
+  "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/r11-a024",
+  "description": null,
+  "features": [
+    "Vacuuming large quantities with high liquid content",
+    "Vacuuming heavy chips (> 500 μm)"
+  ],
+  "categoryImages": [
+    "drehstromantrieb-direkt-spaenesauger-sps250-da30-zone22-ruwac-freisteller-4007c.webp"
+  ],
+  "detailInfo": {
+    "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/r11-a024",
+    "pageTitle": "R11-A024",
+    "fullDescription": null,
+    "technicalSpecs": {
+      "Housing": "Sheet steel",
+      "Motor power (kW)": "2,4 - 7,5",
+      "Voltage (Volt)": "230 - 400",
+      "Underpressure (mbar)": "-210 - -330",
+      "Air flow rate (m³/h) (measured with 3m hose)": "270 - 490",
+      "Sound pressure level (dB(A)) (DIN EN ISO 3744)": "67 - 74",
+      "Cartridge filter for dust class M (m²)": "0,36",
+      "Width (mm)": "500",
+      "Length (mm)": "1.100",
+      "Protection class IP": "x4/54",
+      "Capacity (litres)": "150",
+      "Suction connection (mm)": "50/70",
+      "GeKa coupling": "1 1/4\"",
+      "Pump flow rate": "6,5"
+    },
+    "features": [
+      "Binding of the particles in the liquid",
+      "Easy emptying of the collection container",
+      "Problem-free draining of the cooling lubricants"
+    ],
+    "applications": [
+      "Additive manufacturing",
+      "Automotive",
+      "Construction + Craft",
+      "Chemistry",
+      "Industry general",
+      "Plastics processing",
+      "Agriculture",
+      "Food",
+      "Metalworking"
+    ],
+    "detailImages": [
+      "https://www.ruwac.asia/fileadmin/_processed_/8/2/csm_spaenesauger-drehstromantrieb-wechselstromantrieb-sps250-ruwac-freisteller-3338d_528e86ad6a.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/8/c/csm_R11-Schnitt_8b866fe6dc.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/d/7/csm_makrolonstaeube-chemion-uerdingen-R11-ruwac-mood-3628_bb317a697d.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/f/8/csm_makrolonstaeube-chemion-uerdingen-R11-ruwac-mood-3638gr_1bfa156b11.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/c/5/csm_B-05-741e_929b5b8819.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/4/2/csm_R11-A024-ruwac-mood-4015b_96d410b1e9.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/8/2/csm_spaenesauger-drehstromantrieb-wechselstromantrieb-sps250-ruwac-freisteller-3338d_7fec71d2d2.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/8/c/csm_R11-Schnitt_09f5e9e9f6.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/d/7/csm_makrolonstaeube-chemion-uerdingen-R11-ruwac-mood-3628_b22f3a5813.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/f/8/csm_makrolonstaeube-chemion-uerdingen-R11-ruwac-mood-3638gr_8c5b5fb046.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/c/5/csm_B-05-741e_f53a52b7f0.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/4/2/csm_R11-A024-ruwac-mood-4015b_1ef9e4adca.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/8/6/csm_sps250_Bindung_der_Partikel_in_Fluessigkeit_ruwac_c9a14773f8.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/0/2/csm_sps250_leichtes_ausleeren_des_Sammelbehaelters_39614f1f76.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/9/3/csm_sps250_problemloses_ablassen_der_kuehlschmierstoffe_07b21871a3.png"
+    ]
+  }
+}

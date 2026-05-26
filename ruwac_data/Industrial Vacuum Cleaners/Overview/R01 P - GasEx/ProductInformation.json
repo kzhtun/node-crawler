@@ -1,0 +1,58 @@
+{
+  "title": "R01 P - GasEx",
+  "modelName": "R01 P - GasEx",
+  "category": "Industrial Vacuum Cleaners",
+  "subcategory": "Overview",
+  "categoryPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models",
+  "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/r01-p-gasex",
+  "description": null,
+  "features": [
+    "Can be used in Zone 1, 2, 21 or 22 gas explosion hazardous areas",
+    "Suitable for collecting combustible dust"
+  ],
+  "categoryImages": [
+    "druckluftantrieb-r01-p-dls1000-ruwac-freisteller-3318d.webp"
+  ],
+  "detailInfo": {
+    "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/r01-p-gasex",
+    "pageTitle": "R01 P",
+    "fullDescription": "7Applicable in zone 1, 2, 21 or 22 gas explosion hazardous areasSuitable for holding combustible dustsAbsorption of highly insulating materials - tested by Dekra ExamOptionally for the absorption of solvent-containing substances with activated carbon moduleOptional for the absorption of carcinogenic, mutagenic or health-endangering substances (CMR substances)Compressed air drive (injector) in V2A (corrosion-resistant)Optionally with second compressed air injector for larger volume flows",
+    "technicalSpecs": {
+      "Housing": "GRP",
+      "Underpressure (mbar)": "-350",
+      "Air flow rate (m³/h) (measured with 3m hose)": "255 - 490",
+      "Sound pressure level (dB(A)) (DIN EN ISO 3744)": "<75 / >80",
+      "Pocket filter for dust class L, M (m²)": "1,2/2,6",
+      "Residual Dust filter for dust class H (m²)": "3,2",
+      "Height (mm) (for dust class L, M)": "970/1.223",
+      "Height (mm) (for dust class H)": "1.040/1.380",
+      "Width (mm)": "520",
+      "Length (mm)": "850",
+      "Capacity (litres)": "35",
+      "Suction connection (mm)": "50/70",
+      "Operation pressure (bar)": "5",
+      "Air flow rate (m³/h)": "175",
+      "Operation mode": "Compressed air",
+      "Drive": "Injector Venturi",
+      "GeKa coupling": "Compressed air connection 1/2\" (inch)"
+    },
+    "features": [],
+    "applications": [
+      "Additive manufacturing",
+      "Automotive",
+      "Construction + Craft",
+      "Chemistry",
+      "Industry general",
+      "Plastics processing",
+      "Agriculture",
+      "Food",
+      "Metalworking"
+    ],
+    "detailImages": [
+      "https://www.ruwac.asia/fileadmin/_processed_/a/e/csm_druckluftantrieb-staubex-gasex-r01-p-dls1000-ruwac-freisteller-3318d_b902254a62.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/0/e/csm_brennbare-fluessigkeiten-aufsaugen-r01-p-dls1000-gasEx-uniklinik-duesseldorf-ruwac-mood-1087_c040b019cc.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/a/e/csm_druckluftantrieb-staubex-gasex-r01-p-dls1000-ruwac-freisteller-3318d_eab07c36a9.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/0/e/csm_brennbare-fluessigkeiten-aufsaugen-r01-p-dls1000-gasEx-uniklinik-duesseldorf-ruwac-mood-1087_4ad53ef450.jpg"
+    ]
+  }
+}

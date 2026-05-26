@@ -1,0 +1,55 @@
+{
+  "title": "DS 4 DustEx",
+  "modelName": "DS 4 DustEx",
+  "category": "Industrial Vacuum Cleaners",
+  "subcategory": "Overview",
+  "categoryPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models",
+  "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/ds4-staubex",
+  "description": null,
+  "features": [
+    "Dust explosion protection",
+    "Lowest filter surface load"
+  ],
+  "categoryImages": [
+    "drehstromantrieb_ds4_staubex-ruwac-freisteller-138e.webp"
+  ],
+  "detailInfo": {
+    "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/ds4-staubex",
+    "pageTitle": "DS4",
+    "fullDescription": null,
+    "technicalSpecs": {
+      "Housing": "Sheet steel",
+      "Motor power (kW)": "15",
+      "Voltage (Volt)": "400",
+      "Underpressure (mbar)": "-350",
+      "Air flow rate (m³/h) (measured with 3m hose)": "790 - 980",
+      "Sound pressure level (dB(A)) (DIN EN ISO 3744)": "79",
+      "Cell filter for dust class L, M (m²)": "11",
+      "Residual Dust filter for dust class H (m²)": "16,8",
+      "Width (mm)": "820",
+      "Length (mm)": "1.900"
+    },
+    "features": [],
+    "applications": [
+      "Additive manufacturing",
+      "Automotive",
+      "Construction + Craft",
+      "Chemistry",
+      "Industry general",
+      "Plastics processing",
+      "Agriculture",
+      "Food",
+      "Metalworking"
+    ],
+    "detailImages": [
+      "https://www.ruwac.asia/fileadmin/_processed_/2/7/csm_drehstromantrieb_ds4_staubex-ruwac-freisteller-138e_bcf487d63a.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/b/9/csm_steinstaeube-kiesel-aufsaugen-ds4150-karlmay-festspiele-bad-segeberg-ruwac-mood-1542_6662572b25.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/c/c/csm_drehstromantrieb_ds4_ruwac_mood_721_60010c4184.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/3/4/csm_vermiculit-pressspan-saugen-ds4150-staubex-kramer-progetha-duesseldorf-ruwac-mood-419gr_dbd700d94a.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/2/7/csm_drehstromantrieb_ds4_staubex-ruwac-freisteller-138e_a49f7db47a.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/b/9/csm_steinstaeube-kiesel-aufsaugen-ds4150-karlmay-festspiele-bad-segeberg-ruwac-mood-1542_8bbe95371e.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/c/c/csm_drehstromantrieb_ds4_ruwac_mood_721_f1b975cd87.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/3/4/csm_vermiculit-pressspan-saugen-ds4150-staubex-kramer-progetha-duesseldorf-ruwac-mood-419gr_3d620a8817.jpg"
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "title": "DA5112/5152",
+  "modelName": "DA5112/5152",
+  "category": "Industrial Vacuum Cleaners",
+  "subcategory": "Overview",
+  "categoryPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models",
+  "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/da51125152",
+  "description": null,
+  "features": [
+    "Cleaning by Airtouch and manual cleaning",
+    "Dust explosion protection"
+  ],
+  "categoryImages": [
+    "B-19-4134c_da5112_5152__1_.webp"
+  ],
+  "detailInfo": {
+    "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/da51125152",
+    "pageTitle": "DA5112/5152",
+    "fullDescription": "5152Dust explosion protectionSafe collection and disposal of large quantities Effortless removal of the collection containerForklift pockets for transport Effective large pocket filterCleaning by Airtouch and by manual cleaning",
+    "technicalSpecs": {
+      "Housing": "Sheet steel",
+      "Motor power (kW)": "11/15",
+      "Voltage (Volt)": "400",
+      "Underpressure (mbar)": "-310 - -400",
+      "Underpressure (short-term) (mbar)": "-550",
+      "Air flow rate (m³/h) (measured with 3m hose)": "1.040",
+      "Sound pressure level (dB(A)) (DIN EN ISO 3744)": "75",
+      "Pocket filter for dust class L, M (m²)": "4,5",
+      "Residual Dust filter for dust class H (m²)": "3,5",
+      "Height (mm) (for dust class L, M)": "2.000",
+      "Height (mm) (for dust class H)": "2.000",
+      "Width (mm)": "980",
+      "Length (mm)": "1.790",
+      "Protection class IP": "65",
+      "Capacity (litres)": "150",
+      "Suction connection (mm)": "100"
+    },
+    "features": [],
+    "applications": [
+      "Additive manufacturing",
+      "Automotive",
+      "Construction + Craft",
+      "Chemistry",
+      "Industry general",
+      "Plastics processing",
+      "Agriculture",
+      "Food",
+      "Metalworking"
+    ],
+    "detailImages": [
+      "https://www.ruwac.asia/fileadmin/_processed_/e/8/csm_drehstromantrieb-direkt-staubex-da5112-ruwac-freisteller-4134c_54916a17fa.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/a/8/csm_DA5_Bild2_311c6b325a.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/1/b/csm_DA5_Bild3_8de347295f.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/e/8/csm_drehstromantrieb-direkt-staubex-da5112-ruwac-freisteller-4134c_71f5db9c6c.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/a/8/csm_DA5_Bild2_737463b3f2.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/1/b/csm_DA5_Bild3_46c9dde52f.jpg"
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "title": "R01 R022 2 / R040 2",
+  "modelName": "R01 R022 2 / R040 2",
+  "category": "Industrial Vacuum Cleaners",
+  "subcategory": "Overview",
+  "categoryPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models",
+  "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/r01-r022-2r01-r040-2",
+  "description": null,
+  "features": [
+    "Sound pressure level only 62 db(A)",
+    "Dust explosion protection"
+  ],
+  "categoryImages": [
+    "drehstromantrieb-R01-R022-2-ds1-leisesauger-staubex-ruwac-freisteller-4423b.webp"
+  ],
+  "detailInfo": {
+    "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/r01-r022-2r01-r040-2",
+    "pageTitle": "R01 R022 2 / R01 R040 2",
+    "fullDescription": "R01 R040 2Dust explosion protectionSound pressure level 62 db(A)Variety of variants due to modular systemHousing made of GFKDifferent disposal systemsDesign for asbestos removal",
+    "technicalSpecs": {
+      "Housing": "GRP",
+      "Motor power (kW)": "2,2 - 4",
+      "Voltage (Volt)": "400",
+      "Underpressure (mbar)": "-206 - -213",
+      "Air flow rate (m³/h) (measured with 3m hose)": "300 - 440",
+      "Sound pressure level (dB(A)) (DIN EN ISO 3744)": "62",
+      "Pocket filter for dust class L, M (m²)": "1,2/2,6",
+      "Residual Dust filter for dust class H (m²)": "3,2",
+      "Height (mm) (for dust class L, M)": "1.350 - 1.700",
+      "Height (mm) (for dust class H)": "1.450 - 1.800",
+      "Width (mm)": "520",
+      "Length (mm)": "850",
+      "Protection class IP": "54/65",
+      "Capacity (litres)": "35",
+      "Suction connection (mm)": "50/70"
+    },
+    "features": [
+      "Practical foot lever discharge",
+      "Accessories that always fit",
+      "Cyclone type form of separation",
+      "Manometer monitoring"
+    ],
+    "applications": [
+      "Additive manufacturing",
+      "Automotive",
+      "Construction + Craft",
+      "Chemistry",
+      "Industry general",
+      "Plastics processing",
+      "Agriculture",
+      "Food",
+      "Metalworking"
+    ],
+    "detailImages": [
+      "https://www.ruwac.asia/fileadmin/_processed_/c/7/csm_drehstromantrieb-R01-R022-2-ds1-leisesauger-staubex-ruwac-freisteller-4423b_7df3dc94cb.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/9/0/csm_evonik-chemiepark-marl-R01-R022-2-ds1222-leisesauger-ruwac-mood-3974b_5940f65600.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/4/b/csm_Leiterplattenstaeube-odelo-kamp-lintforth-R01-R022-2-ds1222-ruwac-mood-3350b_e55ce07918.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/b/5/csm_evonik-chemiepark-marl-R01-R022-2-ds1222-leisesauger-ruwac-mood-3973b_144064fad3.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/c/7/csm_drehstromantrieb-R01-R022-2-ds1-leisesauger-staubex-ruwac-freisteller-4423b_29081d8430.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/9/0/csm_evonik-chemiepark-marl-R01-R022-2-ds1222-leisesauger-ruwac-mood-3974b_fb9c998358.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/4/b/csm_Leiterplattenstaeube-odelo-kamp-lintforth-R01-R022-2-ds1222-ruwac-mood-3350b_867bc7d77d.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/b/5/csm_evonik-chemiepark-marl-R01-R022-2-ds1222-leisesauger-ruwac-mood-3973b_6a28018304.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/c/e/csm_ds1_praktische_fusshebelentleerung_ruwac_0a0a43700d.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/8/d/csm_ds1_passgenaues_zubehoer_ruwac_c7c7fc9a2e.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/3/d/csm_ds1_zyklonartige_abscheidung_ruwac_98a080560c.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/3/1/csm_ds1_ueberwachung_manometer_ruwac_c956374c0c.png"
+    ]
+  }
+}

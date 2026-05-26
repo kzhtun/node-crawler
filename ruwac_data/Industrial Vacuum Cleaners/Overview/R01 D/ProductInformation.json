@@ -1,0 +1,62 @@
+{
+  "title": "R01 D",
+  "modelName": "R01 D",
+  "category": "Industrial Vacuum Cleaners",
+  "subcategory": "Overview",
+  "categoryPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models",
+  "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/r01-d-akkusauger",
+  "description": null,
+  "features": [
+    "Battery runtime up to 120 minutes",
+    "Suitable for vacuuming combustible dust"
+  ],
+  "categoryImages": [
+    "22-4769_r01d_akku__1_.webp"
+  ],
+  "detailInfo": {
+    "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/r01-d-akkusauger",
+    "pageTitle": "R01 D",
+    "fullDescription": null,
+    "technicalSpecs": {
+      "Housing": "GRP",
+      "Motor power (kW)": "1,9",
+      "Voltage (Volt)": "48",
+      "Underpressure (mbar)": "-210",
+      "Air flow rate (m³/h) (measured with 3m hose)": "330",
+      "Sound pressure level (dB(A)) (DIN EN ISO 3744)": "72",
+      "Residual Dust filter for dust class H (m²)": "3,2",
+      "Height (mm) (for dust class H)": "1.010",
+      "Width (mm)": "551",
+      "Length (mm)": "817",
+      "Protection class IP": "x4",
+      "Capacity (litres)": "35",
+      "Suction connection (mm)": "50"
+    },
+    "features": [],
+    "applications": [
+      "Additive manufacturing",
+      "Automotive",
+      "Construction + Craft",
+      "Chemistry",
+      "Industry general",
+      "Plastics processing",
+      "Agriculture",
+      "Food",
+      "Metalworking"
+    ],
+    "detailImages": [
+      "https://www.ruwac.asia/fileadmin/_processed_/e/0/csm_22-4769_ws2_akku__1__6d6998a34d.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/8/b/csm_22-4805_Schnittbild_R01_A_Akku_86792587cd.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/0/c/csm_22-4796_r18_akku_009b03573b.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/b/9/csm_22-4797_r01_akku_bf752bb92c.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/5/c/csm_22-4798_r01_akku_3d9cbbb53f.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/4/1/csm_22-4799_r01_akku_0fce403226.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/e/0/csm_22-4769_ws2_akku__1__b379d57362.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/8/b/csm_22-4805_Schnittbild_R01_A_Akku_0570a02711.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/0/c/csm_22-4796_r18_akku_f375ab8fc7.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/b/9/csm_22-4797_r01_akku_1278e086c1.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/5/c/csm_22-4798_r01_akku_f761607228.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/4/1/csm_22-4799_r01_akku_ad8ed8863e.jpg"
+    ]
+  }
+}

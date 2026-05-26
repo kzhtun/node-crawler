@@ -1,0 +1,54 @@
+{
+  "title": "R24 D",
+  "modelName": "R24 D",
+  "category": "Industrial Vacuum Cleaners",
+  "subcategory": "Overview",
+  "categoryPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models",
+  "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/r24-d-akkusauger",
+  "description": null,
+  "features": [
+    "Dust-free disposal thanks to innovative Longopac® system",
+    "Available with replaceable battery and charging station"
+  ],
+  "categoryImages": [
+    "akkusauger_r24_longopac.webp"
+  ],
+  "detailInfo": {
+    "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/r24-d-akkusauger",
+    "pageTitle": "R24 D",
+    "fullDescription": null,
+    "technicalSpecs": {
+      "Housing": "GRP",
+      "Motor power (kW)": "1,9",
+      "Voltage (Volt)": "48",
+      "Underpressure (mbar)": "-210",
+      "Air flow rate (m³/h) (measured with 3m hose)": "330",
+      "Sound pressure level (dB(A)) (DIN EN ISO 3744)": "72",
+      "Residual Dust filter for dust class H (m²)": "3,2",
+      "Height (mm) (for dust class H)": "1.591",
+      "Width (mm)": "656",
+      "Length (mm)": "937",
+      "Protection class IP": "x4",
+      "Capacity (litres)": "approx. 35",
+      "Suction connection (mm)": "50"
+    },
+    "features": [],
+    "applications": [
+      "Additive manufacturing",
+      "Automotive",
+      "Construction + Craft",
+      "Chemistry",
+      "Industry general",
+      "Plastics processing",
+      "Agriculture",
+      "Food",
+      "Metalworking"
+    ],
+    "detailImages": [
+      "https://www.ruwac.asia/fileadmin/_processed_/5/e/csm_akkusauger_r24_longopac_bdf69b3358.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/e/8/csm_22-4792_r24_f3dbc6ed9a.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/5/e/csm_akkusauger_r24_longopac_0d8ef42ef7.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/e/8/csm_22-4792_r24_3d57179363.jpg"
+    ]
+  }
+}

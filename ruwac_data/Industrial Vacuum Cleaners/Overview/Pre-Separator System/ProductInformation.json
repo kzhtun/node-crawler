@@ -1,0 +1,52 @@
+{
+  "title": "Pre-Separator System",
+  "modelName": "Pre-Separator System",
+  "category": "Industrial Vacuum Cleaners",
+  "subcategory": "Overview",
+  "categoryPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models",
+  "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/vorabscheidersystem",
+  "description": null,
+  "features": [
+    "For dry, long-fibered, coarse media"
+  ],
+  "categoryImages": [
+    "vorabscheider-ruwac-freisteller-4137gesp.webp"
+  ],
+  "detailInfo": {
+    "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/vorabscheidersystem",
+    "pageTitle": "Pre-separator system",
+    "fullDescription": "The Ruwac prefilter cell in detail",
+    "technicalSpecs": {
+      "Housing": "Stainless steel, galvanized sheet steel",
+      "Capacity (litres)": "35 - 200",
+      "Suction connection (mm)": "50 - 100"
+    },
+    "features": [
+      "Suction of dry media through a cyclone",
+      "Suction of long-fiber particles in prefilter cell",
+      "Suction of dry media",
+      "Suction of a liquid medium"
+    ],
+    "applications": [
+      "Additive manufacturing",
+      "Automotive",
+      "Construction + Craft",
+      "Chemistry",
+      "Industry general",
+      "Plastics processing",
+      "Agriculture",
+      "Food",
+      "Metalworking"
+    ],
+    "detailImages": [
+      "https://www.ruwac.asia/fileadmin/_processed_/3/9/csm_vorabscheider-ruwac-freisteller-4137gesp_a26d67d3b9.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/0/d/csm_vorabscheider-verbindung-ruwac-4126_cab8cb272f.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/3/9/csm_vorabscheider-ruwac-freisteller-4137gesp_a8a83605f7.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/0/d/csm_vorabscheider-verbindung-ruwac-4126_20eee62268.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/f/a/csm_vorabscheider_trockene_medien_durch_einen_zyklon_752a1e5c96.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/0/5/csm_vorabscheider_langfasiger_partikel_in_vorflterzelle_6879a68941.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/d/a/csm_vorabscheider_einsaugen_trockener_medien_ce8a732101.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/f/4/csm_vorabscheider_einsaugen_fluessiges_medium_14c015f378.png"
+    ]
+  }
+}

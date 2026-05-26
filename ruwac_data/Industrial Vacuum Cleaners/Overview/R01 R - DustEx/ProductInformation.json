@@ -1,0 +1,74 @@
+{
+  "title": "R01 R - DustEx",
+  "modelName": "R01 R - DustEx",
+  "category": "Industrial Vacuum Cleaners",
+  "subcategory": "Overview",
+  "categoryPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models",
+  "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/r01-r-staubex",
+  "description": null,
+  "features": [
+    "Dust explosion protection",
+    "Housing made of GRP"
+  ],
+  "categoryImages": [
+    "industriesauger-drehstromantrieb-r01r-4130.webp"
+  ],
+  "detailInfo": {
+    "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/r01-r-staubex",
+    "pageTitle": "R01 R",
+    "fullDescription": "THE THREE-PHASE VACUUM CLEANER IN DETAIL",
+    "technicalSpecs": {
+      "Housing": "GRP",
+      "Motor power (kW)": "2,2 - 7,5",
+      "Voltage (Volt)": "400",
+      "Underpressure (mbar)": "-125 - -330",
+      "Air flow rate (m³/h) (measured with 3m hose)": "300 - 530",
+      "Sound pressure level (dB(A)) (DIN EN ISO 3744)": "62 - 74",
+      "Pocket filter for dust class L, M (m²)": "1,2/2,6",
+      "Cell filter for dust class L, M (m²)": "1,0",
+      "Residual Dust filter for dust class H (m²)": "3,2",
+      "Height (mm) (for dust class L, M)": "970 - 1.755",
+      "Height (mm) (for dust class H)": "1.040 - 1.955",
+      "Width (mm)": "520",
+      "Length (mm)": "850",
+      "Protection class IP": "54/65",
+      "Capacity (litres)": "35",
+      "Suction connection (mm)": "50/70"
+    },
+    "features": [
+      "Practical foot lever discharge",
+      "Low dust change of the disposal tray",
+      "Simple and effective hand cleaning",
+      "Manometer monitoring"
+    ],
+    "applications": [
+      "Additive manufacturing",
+      "Automotive",
+      "Construction + Craft",
+      "Chemistry",
+      "Industry general",
+      "Plastics processing",
+      "Agriculture",
+      "Food",
+      "Metalworking"
+    ],
+    "detailImages": [
+      "https://www.ruwac.asia/fileadmin/_processed_/3/5/csm_industriesauger-drehstromantrieb-ds1-4130_eefcb8def6.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/8/0/csm_farbpigmente-axalta-wuppertal-ds1-staubex-ruwac-mood-4161_bearb_85e848b6b3.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/2/a/csm_mehlstaeube-aufsaugen-ds1400-staubEx-aurora-mehl-koeln-ruwac-mood-2571b_b42401e953.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/a/4/csm_metallspaene-saugen-ds1220-staubEx-hoermann-oerlinghausen-ruwac-mood-2419_cfadd13a29.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/b/9/csm_metallspaene-saugen-ds1220-staubEx-hoermann-oerlinghausen-ruwac-mood-2421_7844bced45.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/b/2/csm_kunststoffpigmente-aufsaugen-ds1220-staubEx-raschigwerke-espenheim-ruwac-mood-2077_d6cd16f7f5.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/3/5/csm_industriesauger-drehstromantrieb-ds1-4130_10ff4677f2.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/8/0/csm_farbpigmente-axalta-wuppertal-ds1-staubex-ruwac-mood-4161_bearb_e750ae7197.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/2/a/csm_mehlstaeube-aufsaugen-ds1400-staubEx-aurora-mehl-koeln-ruwac-mood-2571b_d95be862b3.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/a/4/csm_metallspaene-saugen-ds1220-staubEx-hoermann-oerlinghausen-ruwac-mood-2419_2f64494c1a.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/b/9/csm_metallspaene-saugen-ds1220-staubEx-hoermann-oerlinghausen-ruwac-mood-2421_717453ef99.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/b/2/csm_kunststoffpigmente-aufsaugen-ds1220-staubEx-raschigwerke-espenheim-ruwac-mood-2077_138f602f03.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/c/e/csm_ds1_praktische_fusshebelentleerung_ruwac_0a0a43700d.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/2/6/csm_ds1_staubarmer_wechsel_der_entsorgungswanne_ruwac_cde28162cf.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/8/9/csm_ds1_effektive_handabreinigung_ruwac_824a5048df.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/3/1/csm_ds1_ueberwachung_manometer_ruwac_c956374c0c.png"
+    ]
+  }
+}

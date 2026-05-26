@@ -1,0 +1,57 @@
+{
+  "title": "R07 S",
+  "modelName": "R07 S",
+  "category": "Industrial Vacuum Cleaners",
+  "subcategory": "Overview",
+  "categoryPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models",
+  "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/r07-s",
+  "description": null,
+  "features": [
+    "Suitable for extraction of explosive dust materials",
+    "Suitable for SLM in aerospace, automotive, or medical technology"
+  ],
+  "categoryImages": [
+    "nassabscheider-wechselstromantrieb-R07-S-ruwac-freisteller-3191c.webp"
+  ],
+  "detailInfo": {
+    "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/r07-s",
+    "pageTitle": "R07 S / NA7-11",
+    "fullDescription": "NA7-11Suitable for the extraction of explosive dusts, among other thingsSuitable for SLM (laser melting process) for aerospace, automotive or medical technology",
+    "technicalSpecs": {
+      "Housing": "Sheet steel",
+      "Motor power (kW)": "1,1 - 1,5",
+      "Voltage (Volt)": "230",
+      "Underpressure (mbar)": "-165",
+      "Underpressure (short-term) (mbar)": "-235",
+      "Air flow rate (m³/h) (measured with 3m hose)": "130 - 145",
+      "Sound pressure level (dB(A)) (DIN EN ISO 3744)": "60",
+      "Residual Dust filter for dust class H (m²)": "3 x 0,1",
+      "Cartridge filter for dust class M (m²)": "3 x 0,1",
+      "Height (mm) (for dust class H)": "755",
+      "Width (mm)": "480",
+      "Length (mm)": "705",
+      "Protection class IP": "65",
+      "Capacity (litres)": "7",
+      "Suction connection (mm)": "30",
+      "Water consumption (L/h)": "0,6"
+    },
+    "features": [],
+    "applications": [
+      "Additive manufacturing",
+      "Automotive",
+      "Construction + Craft",
+      "Chemistry",
+      "Industry general",
+      "Plastics processing",
+      "Agriculture",
+      "Food",
+      "Metalworking"
+    ],
+    "detailImages": [
+      "https://www.ruwac.asia/fileadmin/_processed_/7/1/csm_nassabscheider-wechselstromantrieb-na7-11-ruwac-freisteller-3191c_73c0d9f24c.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/8/c/csm_additive-fertigung-3d-druck-realizer-paderborn-na7-26-ruwac-mood-3213b_f8422bfc1c.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/7/1/csm_nassabscheider-wechselstromantrieb-na7-11-ruwac-freisteller-3191c_07356cae42.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/8/c/csm_additive-fertigung-3d-druck-realizer-paderborn-na7-26-ruwac-mood-3213b_4b475189bc.jpg"
+    ]
+  }
+}

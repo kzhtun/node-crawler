@@ -1,0 +1,75 @@
+{
+  "title": "R01 A - DustEx",
+  "modelName": "R01 A - DustEx",
+  "category": "Industrial Vacuum Cleaners",
+  "subcategory": "Overview",
+  "categoryPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models",
+  "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/r01-a-staubex-1",
+  "description": null,
+  "features": [
+    "Dust explosion protection",
+    "Different disposal systems"
+  ],
+  "categoryImages": [
+    "wechselstromantrieb-r01-a-ws2-ruwac-freisteller-4369.webp"
+  ],
+  "detailInfo": {
+    "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/r01-a-staubex-1",
+    "pageTitle": "R01 A",
+    "fullDescription": "The Single-Phase Drive vacuum cleaner in detail",
+    "technicalSpecs": {
+      "Housing": "GRP",
+      "Motor power (kW)": "2,0 - 3,6",
+      "Voltage (Volt)": "230",
+      "Underpressure (mbar)": "-185 - -210",
+      "Air flow rate (m³/h) (measured with 3m hose)": "270 - 460",
+      "Sound pressure level (dB(A)) (DIN EN ISO 3744)": "64 - 72",
+      "Pocket filter for dust class L, M (m²)": "1,2/2,6",
+      "Cell filter for dust class L, M (m²)": "1,0",
+      "Residual Dust filter for dust class H (m²)": "3,2",
+      "Height (mm) (for dust class L, M)": "890 - 1.200",
+      "Height (mm) (for dust class H)": "1.010 - 1.340",
+      "Width (mm)": "520",
+      "Length (mm)": "850",
+      "Protection class IP": "x4",
+      "Protection class (Zone 22) IP": "54",
+      "Capacity (litres)": "35",
+      "Suction connection (mm)": "50/70"
+    },
+    "features": [
+      "Practical foot lever discharge",
+      "Cyclone type form of separation",
+      "Simple and effective hand cleaning",
+      "Manometer monitoring"
+    ],
+    "applications": [
+      "Additive manufacturing",
+      "Automotive",
+      "Construction + Craft",
+      "Chemistry",
+      "Industry general",
+      "Plastics processing",
+      "Agriculture",
+      "Food",
+      "Metalworking"
+    ],
+    "detailImages": [
+      "https://www.ruwac.asia/fileadmin/_processed_/6/9/csm_wechselstromantrieb-r01-a-ws2_staubex-ruwac-freisteller-4369_440e694357.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/5/7/csm_holstaeube-filmstudio-hamburg-ws2-zone22-ruwac-mood-4181_b45ee50047.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/7/f/csm_mehl-baeckerei-igel-hamburg-ws2-zone22-ruwac-mood-4171_ccc69b9a7d.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/7/5/csm_holzstaeube-filmstudio-hamburg-ws2-zone22-ruwac-mood-4180_559afd6916.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/3/5/csm_pulverbeschichtung-thiemt-melle-ws2-zone22-ruwac-mood-4048_fd300a05b6.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/4/7/csm_baeckerei-mehlst%C3%A4ube-gro%C3%9Fbaeckerei-ws2220-staubex-ruwac-mood-3364d_gr_d67112fd7b.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/6/9/csm_wechselstromantrieb-r01-a-ws2_staubex-ruwac-freisteller-4369_f4b71f4263.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/5/7/csm_holstaeube-filmstudio-hamburg-ws2-zone22-ruwac-mood-4181_bdd73d8508.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/7/f/csm_mehl-baeckerei-igel-hamburg-ws2-zone22-ruwac-mood-4171_652829c5da.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/7/5/csm_holzstaeube-filmstudio-hamburg-ws2-zone22-ruwac-mood-4180_fb3e6d0b93.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/3/5/csm_pulverbeschichtung-thiemt-melle-ws2-zone22-ruwac-mood-4048_8d280803e8.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/4/7/csm_baeckerei-mehlst%C3%A4ube-gro%C3%9Fbaeckerei-ws2220-staubex-ruwac-mood-3364d_gr_2e5ffeabab.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/c/e/csm_ds1_praktische_fusshebelentleerung_ruwac_0a0a43700d.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/3/d/csm_ds1_zyklonartige_abscheidung_ruwac_98a080560c.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/8/9/csm_ds1_effektive_handabreinigung_ruwac_824a5048df.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/3/1/csm_ds1_ueberwachung_manometer_ruwac_c956374c0c.png"
+    ]
+  }
+}

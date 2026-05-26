@@ -1,0 +1,64 @@
+{
+  "title": "R01 R022",
+  "modelName": "R01 R022",
+  "category": "Industrial Vacuum Cleaners",
+  "subcategory": "Overview",
+  "categoryPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models",
+  "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/r01-r022",
+  "description": null,
+  "features": [
+    "Industrial vacuum with spark trap",
+    "Suitable for extraction of explosive dust/air mixtures"
+  ],
+  "categoryImages": [
+    "drehstromantrieb-R01-R022-ds1220-funkenfalle-staubex-ruwac-freisteller-3323c.webp"
+  ],
+  "detailInfo": {
+    "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/r01-r022",
+    "pageTitle": "R01 R022",
+    "fullDescription": null,
+    "technicalSpecs": {
+      "Housing": "GRP",
+      "Motor power (kW)": "2,2",
+      "Voltage (Volt)": "400",
+      "Underpressure (mbar)": "-206",
+      "Air flow rate (m³/h) (measured with 3m hose)": "270",
+      "Sound pressure level (dB(A)) (DIN EN ISO 3744)": "70",
+      "Pocket filter for dust class L, M (m²)": "1,2/2,6",
+      "Cell filter for dust class L, M (m²)": "1,0",
+      "Residual Dust filter for dust class H (m²)": "3,2",
+      "Height (mm) (for dust class L, M)": "870 - 1.210",
+      "Height (mm) (for dust class H)": "1.040 - 1.380",
+      "Width (mm)": "1.150",
+      "Length (mm)": "approx. 790",
+      "Protection class IP": "65",
+      "Capacity (litres)": "35",
+      "Suction connection (mm)": "50/70"
+    },
+    "features": [
+      "Practical foot lever discharge",
+      "Accessories that always fit",
+      "Cyclone type form of separation",
+      "Manometer monitoring"
+    ],
+    "applications": [
+      "Additive manufacturing",
+      "Automotive",
+      "Construction + Craft",
+      "Chemistry",
+      "Industry general",
+      "Plastics processing",
+      "Agriculture",
+      "Food",
+      "Metalworking"
+    ],
+    "detailImages": [
+      "https://www.ruwac.asia/fileadmin/_processed_/c/4/csm_drehstromantrieb-R01-R022-ds1220-funkenfalle-staubex-ruwac-freisteller-3323c_13caa5ea4b.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/c/4/csm_drehstromantrieb-R01-R022-ds1220-funkenfalle-staubex-ruwac-freisteller-3323c_3791ff8524.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/c/e/csm_ds1_praktische_fusshebelentleerung_ruwac_0a0a43700d.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/8/d/csm_ds1_passgenaues_zubehoer_ruwac_c7c7fc9a2e.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/3/d/csm_ds1_zyklonartige_abscheidung_ruwac_98a080560c.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/3/1/csm_ds1_ueberwachung_manometer_ruwac_c956374c0c.png"
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Pre-Separator Container",
+  "modelName": "Pre-Separator Container",
+  "category": "Industrial Vacuum Cleaners",
+  "subcategory": "Overview",
+  "categoryPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models",
+  "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/vorabscheidersysteme",
+  "description": null,
+  "features": [
+    "Needs-based pre-separators",
+    "Separation of various vacuum materials - dry, damp, or wet"
+  ],
+  "categoryImages": [
+    "vorabscheider-tonne_edelstahl-ruwac-4136.webp"
+  ],
+  "detailInfo": {
+    "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/vorabscheidersysteme",
+    "pageTitle": "Pre-separator container",
+    "fullDescription": "The pre-separator function in detail",
+    "technicalSpecs": {
+      "Housing": "Stainless steel, galvanized sheet steel",
+      "Capacity (litres)": "35 - 200",
+      "Suction connection (mm)": "50 - 100"
+    },
+    "features": [
+      "Suction of dry media through a cyclone",
+      "Suction of long-fiber particles in prefilter cell",
+      "Suction of dry media",
+      "Suction of a liquid medium"
+    ],
+    "applications": [
+      "Additive manufacturing",
+      "Automotive",
+      "Construction + Craft",
+      "Chemistry",
+      "Industry general",
+      "Plastics processing",
+      "Agriculture",
+      "Food",
+      "Metalworking"
+    ],
+    "detailImages": [
+      "https://www.ruwac.asia/fileadmin/_processed_/b/1/csm_vorabscheider-tonne_edelstahl-ruwac-4136_4a0c26df3a.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/0/7/csm_vorabscheider-ruwac-freisteller-4139gesp_ec18bfdb5e.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/2/7/csm_vorabscheider-ruwac-freisteller-4138gesp_70905950bc.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/2/7/csm_vorabscheider-ruwac-freisteller-4138gesp_70905950bc.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/0/d/csm_vorabscheider-verbindung-ruwac-4126_cab8cb272f.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/8/8/csm_vorabscheider-kipplaster-ruwac-4135_92be0baafb.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/7/9/csm_vorabscheider-deckel-ruwac-792_44beaa8314.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/1/3/csm_vorabscheider-deckel-ruwac-787_417b4d645b.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/1/3/csm_vorabscheider-deckel-ruwac-787_417b4d645b.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/b/1/csm_vorabscheider-tonne_edelstahl-ruwac-4136_03d5f65dff.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/0/7/csm_vorabscheider-ruwac-freisteller-4139gesp_7728270f1b.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/2/7/csm_vorabscheider-ruwac-freisteller-4138gesp_73a890743c.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/2/7/csm_vorabscheider-ruwac-freisteller-4138gesp_73a890743c.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/0/d/csm_vorabscheider-verbindung-ruwac-4126_20eee62268.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/8/8/csm_vorabscheider-kipplaster-ruwac-4135_13ee9c8d53.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/7/9/csm_vorabscheider-deckel-ruwac-792_8b2d0ca5b8.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/1/3/csm_vorabscheider-deckel-ruwac-787_bcfa9f5da5.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/1/3/csm_vorabscheider-deckel-ruwac-787_bcfa9f5da5.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/f/a/csm_vorabscheider_trockene_medien_durch_einen_zyklon_752a1e5c96.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/0/5/csm_vorabscheider_langfasiger_partikel_in_vorflterzelle_6879a68941.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/d/a/csm_vorabscheider_einsaugen_trockener_medien_ce8a732101.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/f/4/csm_vorabscheider_einsaugen_fluessiges_medium_14c015f378.png"
+    ]
+  }
+}

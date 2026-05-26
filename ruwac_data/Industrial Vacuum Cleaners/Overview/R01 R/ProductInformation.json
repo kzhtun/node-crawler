@@ -1,0 +1,74 @@
+{
+  "title": "R01 R",
+  "modelName": "R01 R",
+  "category": "Industrial Vacuum Cleaners",
+  "subcategory": "Overview",
+  "categoryPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models",
+  "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/r01-r",
+  "description": null,
+  "features": [
+    "Variety through modular system",
+    "Housing made of GRP"
+  ],
+  "categoryImages": [
+    "industriesauger-drehstromantrieb-r01r-4130.webp"
+  ],
+  "detailInfo": {
+    "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/r01-r",
+    "pageTitle": "R01 R",
+    "fullDescription": "THE THREE-PHASE VACUUM CLEANER IN DETAIL",
+    "technicalSpecs": {
+      "Housing": "GRP",
+      "Motor power (kW)": "2,2 - 7,5",
+      "Voltage (Volt)": "400",
+      "Underpressure (mbar)": "-125 - -330",
+      "Air flow rate (m³/h) (measured with 3m hose)": "300 - 530",
+      "Sound pressure level (dB(A)) (DIN EN ISO 3744)": "62 - 74",
+      "Pocket filter for dust class L, M (m²)": "1,2/2,6",
+      "Cell filter for dust class L, M (m²)": "1,0",
+      "Residual Dust filter for dust class H (m²)": "3,2",
+      "Height (mm) (for dust class L, M)": "970 - 1.755",
+      "Height (mm) (for dust class H)": "1.040 - 1.955",
+      "Width (mm)": "520",
+      "Length (mm)": "850",
+      "Protection class IP": "54/65",
+      "Capacity (litres)": "35",
+      "Suction connection (mm)": "50/70"
+    },
+    "features": [
+      "Practical foot lever discharge",
+      "Accessories that always fit",
+      "Simple and effective hand cleaning",
+      "Low dust change of the disposal tray"
+    ],
+    "applications": [
+      "Additive manufacturing",
+      "Automotive",
+      "Construction + Craft",
+      "Chemistry",
+      "Industry general",
+      "Plastics processing",
+      "Agriculture",
+      "Food",
+      "Metalworking"
+    ],
+    "detailImages": [
+      "https://www.ruwac.asia/fileadmin/_processed_/8/8/csm_industriesauger-drehstromantrieb-r01-r-ds1-r3316b_28810d099a.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/2/9/csm_kunststoffstaeube-absaugen-ds1-tec-support-bielefeld-ruwac-mood-2435_ead72a81e7.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/1/4/csm_asbest-absaugen-ds1220-stueken-rinteln-ruwac-mood-1780_477fcf0411.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/c/c/csm_asbest-absaugen-ds1220-stueken-rinteln-ruwac-mood-2002_Rinteln_b03b9c4dc9.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/e/2/csm_asbeststaeube-asbestsanierung-ds1750-ruwac-mood-3303b_d791f498ad.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/1/6/csm_papierstaeube-pilze-aufsaugen-ds1220-zentrum-fuer-bucherhaltung-leipzig-ruwac-mood_1755_a25a496530.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/8/8/csm_industriesauger-drehstromantrieb-r01-r-ds1-r3316b_441055f03a.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/2/9/csm_kunststoffstaeube-absaugen-ds1-tec-support-bielefeld-ruwac-mood-2435_bf93ce6ad1.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/1/4/csm_asbest-absaugen-ds1220-stueken-rinteln-ruwac-mood-1780_66df70014c.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/c/c/csm_asbest-absaugen-ds1220-stueken-rinteln-ruwac-mood-2002_Rinteln_cd21b521de.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/e/2/csm_asbeststaeube-asbestsanierung-ds1750-ruwac-mood-3303b_07bbfd03d0.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/1/6/csm_papierstaeube-pilze-aufsaugen-ds1220-zentrum-fuer-bucherhaltung-leipzig-ruwac-mood_1755_4b4ab093ee.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/c/e/csm_ds1_praktische_fusshebelentleerung_ruwac_0a0a43700d.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/8/d/csm_ds1_passgenaues_zubehoer_ruwac_c7c7fc9a2e.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/8/9/csm_ds1_effektive_handabreinigung_ruwac_824a5048df.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/2/6/csm_ds1_staubarmer_wechsel_der_entsorgungswanne_ruwac_cde28162cf.png"
+    ]
+  }
+}

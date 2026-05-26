@@ -1,0 +1,68 @@
+{
+  "title": "DS 2 - DustEx",
+  "modelName": "DS 2 - DustEx",
+  "category": "Industrial Vacuum Cleaners",
+  "subcategory": "Overview",
+  "categoryPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models",
+  "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/ds2-staubex",
+  "description": null,
+  "features": [
+    "Dust explosion protection",
+    "Version for asbestos remediation"
+  ],
+  "categoryImages": [
+    "drehstromantrieb-ds2-staubex-ruwac-freisteller-3329c.webp"
+  ],
+  "detailInfo": {
+    "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/ds2-staubex",
+    "pageTitle": "DS2",
+    "fullDescription": null,
+    "technicalSpecs": {
+      "Housing": "GRP",
+      "Motor power (kW)": "4 - 7,5",
+      "Voltage (Volt)": "400",
+      "Underpressure (mbar)": "-170 - -230",
+      "Air flow rate (m³/h) (measured with 3m hose)": "410 - 820",
+      "Sound pressure level (dB(A)) (DIN EN ISO 3744)": "67 - 77",
+      "Pocket filter for dust class L, M (m²)": "2,4/4,5",
+      "Residual Dust filter for dust class H (m²)": "3,2 - 4,8",
+      "Height (mm) (for dust class L, M)": "1.260 - 2.155",
+      "Height (mm) (for dust class H)": "1.450"
+    },
+    "features": [
+      "Practical foot lever discharge",
+      "Simple and effective hand cleaning",
+      "Low dust change of the disposal tray",
+      "Manometer monitoring"
+    ],
+    "applications": [
+      "Additive manufacturing",
+      "Automotive",
+      "Construction + Craft",
+      "Chemistry",
+      "Industry general",
+      "Plastics processing",
+      "Agriculture",
+      "Food",
+      "Metalworking"
+    ],
+    "detailImages": [
+      "https://www.ruwac.asia/fileadmin/_processed_/b/3/csm_drehstromantrieb-ds2-staubex-ruwac-freisteller-3329c_d7713f80ef.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/b/9/csm_biomasse-heizung-asche-saugen-ds2520-staubex-bentheimerholz-badbentheim-ruwac-mood-2712_3a22904eee.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/e/9/csm_makrolon-chemion-chemiepark-uerdingen-ds2520-ruwac-mood-3635gr_34232d3bbc.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/8/5/csm_wachsadditive-aufsaugen-absauganlage-bigBag-ds2521-staubEx-clariant-gersthofen-ruwac-mood-1092_598670e85f.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/f/e/csm_wachsadditive-aufsaugen-absauganlage-bigBag-ds2521-staubEx-clariant-gersthofen-ruwac-mood-1093_60e1493ca1.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/9/a/csm_lackierstaeube-lackiernebel-absaugen-ds2520-staubex-vorabscheider-thedens-duesseldorf-2967_aeb3ad8338.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/b/3/csm_drehstromantrieb-ds2-staubex-ruwac-freisteller-3329c_66ce68069e.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/b/9/csm_biomasse-heizung-asche-saugen-ds2520-staubex-bentheimerholz-badbentheim-ruwac-mood-2712_ded267fa16.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/e/9/csm_makrolon-chemion-chemiepark-uerdingen-ds2520-ruwac-mood-3635gr_9ab2cbabc6.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/8/5/csm_wachsadditive-aufsaugen-absauganlage-bigBag-ds2521-staubEx-clariant-gersthofen-ruwac-mood-1092_f945983f4e.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/f/e/csm_wachsadditive-aufsaugen-absauganlage-bigBag-ds2521-staubEx-clariant-gersthofen-ruwac-mood-1093_e16c907706.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/9/a/csm_lackierstaeube-lackiernebel-absaugen-ds2520-staubex-vorabscheider-thedens-duesseldorf-2967_bce13d1146.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/c/e/csm_ds1_praktische_fusshebelentleerung_ruwac_0a0a43700d.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/8/9/csm_ds1_effektive_handabreinigung_ruwac_824a5048df.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/2/6/csm_ds1_staubarmer_wechsel_der_entsorgungswanne_ruwac_cde28162cf.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/3/1/csm_ds1_ueberwachung_manometer_ruwac_c956374c0c.png"
+    ]
+  }
+}

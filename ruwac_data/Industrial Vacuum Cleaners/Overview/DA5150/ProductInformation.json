@@ -1,0 +1,68 @@
+{
+  "title": "DA5150",
+  "modelName": "DA5150",
+  "category": "Industrial Vacuum Cleaners",
+  "subcategory": "Overview",
+  "categoryPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models",
+  "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/da5150",
+  "description": null,
+  "features": [
+    "Individually and infinitely height-adjustable by lowering the filtering separation unit",
+    "Various options in the choice of pre-separators"
+  ],
+  "categoryImages": [
+    "drehstromantrieb-direkt-da5150-ruwac-freisteller-3260b.webp"
+  ],
+  "detailInfo": {
+    "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/da5150",
+    "pageTitle": "DA5150",
+    "fullDescription": null,
+    "technicalSpecs": {
+      "Housing": "Sheet steel",
+      "Motor power (kW)": "15",
+      "Voltage (Volt)": "400",
+      "Underpressure (mbar)": "-310",
+      "Underpressure (short-term) (mbar)": "-350",
+      "Air flow rate (m³/h) (measured with 3m hose)": "860",
+      "Sound pressure level (dB(A)) (DIN EN ISO 3744)": "75",
+      "Pocket filter for dust class L, M (m²)": "4,5",
+      "Residual Dust filter for dust class H (m²)": "10",
+      "Height (mm) (for dust class H)": "2,100 (lowered)",
+      "Width (mm)": "1.100",
+      "Length (mm)": "1.900",
+      "Protection class IP": "54",
+      "Capacity (litres)": "individual",
+      "Suction connection (mm)": "100",
+      "Throw of separation unit (mm)": "63 - 1.230"
+    },
+    "features": [
+      "Cyclone type form of separation",
+      "Deposition of the fine dust particles",
+      "Accessories that always fit"
+    ],
+    "applications": [
+      "Additive manufacturing",
+      "Automotive",
+      "Construction + Craft",
+      "Chemistry",
+      "Industry general",
+      "Plastics processing",
+      "Agriculture",
+      "Food",
+      "Metalworking"
+    ],
+    "detailImages": [
+      "https://www.ruwac.asia/fileadmin/_processed_/3/a/csm_drehstromantrieb-direkt-da5150-ruwac-freisteller-3260b_f1b1d97093.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/a/c/csm_knochenmehl-krematorium-hamburg-da5150-ruwac-mood-4173_b3074d3a49.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/9/4/csm_knochenmehl-krematorium-hamburg-da5150-ruwac-mood-4174_33827bf06b.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/3/6/csm_sandstrahlgut-bremerhafengesellschaft-bremen-da5150-ruwac-mood-3694b_d3917cfec4.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/3/a/csm_drehstromantrieb-direkt-da5150-ruwac-freisteller-3260b_744337e909.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/a/c/csm_knochenmehl-krematorium-hamburg-da5150-ruwac-mood-4173_41c82a650b.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/9/4/csm_knochenmehl-krematorium-hamburg-da5150-ruwac-mood-4174_c870e42968.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/3/6/csm_sandstrahlgut-bremerhafengesellschaft-bremen-da5150-ruwac-mood-3694b_48a0d032e1.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/3/d/csm_ds1_zyklonartige_abscheidung_ruwac_98a080560c.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/f/d/csm_ds1_ablagern_der_feinstaubpartikel_ruwac_619bb95e77.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/8/d/csm_ds1_passgenaues_zubehoer_ruwac_c7c7fc9a2e.png"
+    ]
+  }
+}

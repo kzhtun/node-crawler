@@ -1,0 +1,58 @@
+{
+  "title": "R10",
+  "modelName": "R10",
+  "category": "Industrial Vacuum Cleaners",
+  "subcategory": "Overview",
+  "categoryPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models",
+  "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/r10",
+  "description": null,
+  "features": [
+    "Simultaneous separation of chips and liquids",
+    "Particularly advantageous for use in narrow machine lines"
+  ],
+  "categoryImages": [
+    "spaensauger-r10-ruwac-freisteller-4373.webp"
+  ],
+  "detailInfo": {
+    "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/r10",
+    "pageTitle": "R10",
+    "fullDescription": null,
+    "technicalSpecs": {
+      "Housing": "GRP",
+      "Motor power (kW)": "1,2",
+      "Voltage (Volt)": "230",
+      "Underpressure (mbar)": "-220",
+      "Air flow rate (m³/h) (measured with 3m hose)": "180",
+      "Sound pressure level (dB(A)) (DIN EN ISO 3744)": "79",
+      "Cartridge filter for dust class M (m²)": "0,36",
+      "Width (mm)": "520",
+      "Length (mm)": "930",
+      "Protection class IP": "x4",
+      "Capacity (litres)": "35",
+      "Suction connection (mm)": "50",
+      "GeKa coupling": "1 1/4",
+      "Pump flow rate": "3,9",
+      "Max. pumping head": "8,5"
+    },
+    "features": [],
+    "applications": [
+      "Additive manufacturing",
+      "Automotive",
+      "Construction + Craft",
+      "Chemistry",
+      "Industry general",
+      "Plastics processing",
+      "Agriculture",
+      "Food",
+      "Metalworking"
+    ],
+    "detailImages": [
+      "https://www.ruwac.asia/fileadmin/_processed_/0/0/csm_R10-Produktbild_e9f4f08452.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/7/8/csm_makrolonstaeube-chemion-uerdingen-sps35-ruwac-mood-3633_f57aadb705.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/1/f/csm_sps35-ruwac-mood-4018_3c29b02e09.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/0/0/csm_R10-Produktbild_53ce58853d.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/7/8/csm_makrolonstaeube-chemion-uerdingen-sps35-ruwac-mood-3633_2ffab0d297.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/1/f/csm_sps35-ruwac-mood-4018_42df70c7e3.jpg"
+    ]
+  }
+}

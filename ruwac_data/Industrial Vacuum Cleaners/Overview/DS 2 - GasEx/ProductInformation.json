@@ -1,0 +1,65 @@
+{
+  "title": "DS 2 - GasEx",
+  "modelName": "DS 2 - GasEx",
+  "category": "Industrial Vacuum Cleaners",
+  "subcategory": "Overview",
+  "categoryPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models",
+  "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/ds2-1",
+  "description": null,
+  "features": [
+    "Use in Zone 1 or 2 gas explosion hazardous areas",
+    "Suitable for collecting combustible dust"
+  ],
+  "categoryImages": [
+    "drehstromantrieb-ds2-gasex-ruwac-freisteller-4142.webp"
+  ],
+  "detailInfo": {
+    "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/ds2-1",
+    "pageTitle": "DS2",
+    "fullDescription": null,
+    "technicalSpecs": {
+      "Housing": "GRP",
+      "Motor power (kW)": "4,6 - 7,5",
+      "Voltage (Volt)": "400",
+      "Underpressure (mbar)": "-170 - -230",
+      "Air flow rate (m³/h) (measured with 3m hose)": "440 - 880",
+      "Sound pressure level (dB(A)) (DIN EN ISO 3744)": "72 - 77",
+      "Pocket filter for dust class L, M (m²)": "4,5",
+      "Residual Dust filter for dust class H (m²)": "4,8",
+      "Height (mm) (for dust class L, M)": "1.605",
+      "Height (mm) (for dust class H)": "1.780",
+      "Width (mm)": "730",
+      "Length (mm)": "920",
+      "Protection class IP": "54/65",
+      "Capacity (litres)": "90",
+      "Suction connection (mm)": "70/100"
+    },
+    "features": [
+      "Practical foot lever discharge",
+      "Simple and effective hand cleaning",
+      "Low dust change of the disposal tray",
+      "Manometer monitoring"
+    ],
+    "applications": [
+      "Additive manufacturing",
+      "Automotive",
+      "Construction + Craft",
+      "Chemistry",
+      "Industry general",
+      "Plastics processing",
+      "Agriculture",
+      "Food",
+      "Metalworking"
+    ],
+    "detailImages": [
+      "https://www.ruwac.asia/fileadmin/_processed_/0/a/csm_drehstromantrieb-ds2-gasex-ruwac-freisteller-4142_014c3734e3.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/8/6/csm_explosivstaeube-aufsaugen-ds2720-staubEx-trw-airbag-systems-aschau-ruwac-mood-2352_b914b7561e.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/0/a/csm_drehstromantrieb-ds2-gasex-ruwac-freisteller-4142_c881c8e600.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/8/6/csm_explosivstaeube-aufsaugen-ds2720-staubEx-trw-airbag-systems-aschau-ruwac-mood-2352_479058692a.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/c/e/csm_ds1_praktische_fusshebelentleerung_ruwac_0a0a43700d.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/8/9/csm_ds1_effektive_handabreinigung_ruwac_824a5048df.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/2/6/csm_ds1_staubarmer_wechsel_der_entsorgungswanne_ruwac_cde28162cf.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/3/1/csm_ds1_ueberwachung_manometer_ruwac_c956374c0c.png"
+    ]
+  }
+}

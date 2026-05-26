@@ -1,0 +1,64 @@
+{
+  "title": "DS 3",
+  "modelName": "DS 3",
+  "category": "Industrial Vacuum Cleaners",
+  "subcategory": "Overview",
+  "categoryPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models",
+  "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/ds3",
+  "description": null,
+  "features": [
+    "Housing made of sheet steel",
+    "Available with residual dust filter dust class H and/or activated carbon module"
+  ],
+  "categoryImages": [
+    "drehstromantrieb-ds3-staubex-ruwac-freisteller-3464b.webp"
+  ],
+  "detailInfo": {
+    "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/ds3",
+    "pageTitle": "DS3",
+    "fullDescription": "The DS3 industrial vacuum cleaner in detail",
+    "technicalSpecs": {
+      "Housing": "Sheet steel",
+      "Motor power (kW)": "2,2 - 4",
+      "Voltage (Volt)": "400",
+      "Underpressure (mbar)": "-220 - -230",
+      "Air flow rate (m³/h) (measured with 3m hose)": "350 - 470",
+      "Sound pressure level (dB(A)) (DIN EN ISO 3744)": "61 - 65",
+      "Residual Dust filter for dust class H (m²)": "3,2",
+      "Cartridge filter for dust class M (m²)": "12",
+      "Height (mm) (for dust class L, M)": "2.090",
+      "Width (mm)": "730",
+      "Length (mm)": "992",
+      "Protection class IP": "55",
+      "Capacity (litres)": "55",
+      "Suction connection (mm)": "70",
+      "Operation pressure (bar)": "5 - 6 (cleaning pressure)",
+      "Type of cleaning": "Compressed air cleaning"
+    },
+    "features": [
+      "Advantages due to vacuum holder",
+      "Cleaning during suction",
+      "Tangential flow around the filter",
+      "Effective gravity separation"
+    ],
+    "applications": [
+      "Additive manufacturing",
+      "Automotive",
+      "Construction + Craft",
+      "Chemistry",
+      "Industry general",
+      "Plastics processing",
+      "Agriculture",
+      "Food",
+      "Metalworking"
+    ],
+    "detailImages": [
+      "https://www.ruwac.asia/fileadmin/_processed_/4/0/csm_drehstromantrieb-ds3-staubex-ruwac-freisteller-3464b_a1af375aca.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/4/0/csm_drehstromantrieb-ds3-staubex-ruwac-freisteller-3464b_14de5e2221.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/a/d/csm_ds3_vorteile_durch_vakuumhalterung_c2af8fe58b.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/8/a/csm_ds3_abreinigen_waehrend_des_saugens_e2a90aec5b.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/5/c/csm_ds3_tangentiale_umstroemung_des_filters_b_34658b2a04.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/a/f/csm_ds3_schwerkraftabscheidung_fbaa2183db.png"
+    ]
+  }
+}

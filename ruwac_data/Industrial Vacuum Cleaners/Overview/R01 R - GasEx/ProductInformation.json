@@ -1,0 +1,75 @@
+{
+  "title": "R01 R - GasEx",
+  "modelName": "R01 R - GasEx",
+  "category": "Industrial Vacuum Cleaners",
+  "subcategory": "Overview",
+  "categoryPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models",
+  "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/r01-r-gasex",
+  "description": null,
+  "features": [
+    "Use in Zone 1 or 2 gas explosion hazardous areas",
+    "Suitable for collecting combustible dust"
+  ],
+  "categoryImages": [
+    "industriesauger-drehstromantrieb_r01r_gasex_r3317.webp"
+  ],
+  "detailInfo": {
+    "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/r01-r-gasex",
+    "pageTitle": "R01 R",
+    "fullDescription": "EU and the basic requirements of TRGS 727 for the following areas of application:Use in zone 1 or 2 gas explosion hazardous areas.Suitable for holding combustible dustsAbsorption of highly insulating substancesOptionally for the absorption of carcinogenic, mutagenic or health-endangering substancesOptionally for use in zone 21 or 22 in dust explosion hazardous areas",
+    "technicalSpecs": {
+      "Housing": "GRP",
+      "Motor power (kW)": "2,5 - 4,6",
+      "Voltage (Volt)": "400",
+      "Underpressure (mbar)": "-213",
+      "Air flow rate (m³/h) (measured with 3m hose)": "300 - 440",
+      "Sound pressure level (dB(A)) (DIN EN ISO 3744)": "70",
+      "Pocket filter for dust class L, M (m²)": "1,2/2,6",
+      "Residual Dust filter for dust class H (m²)": "3,2",
+      "Height (mm) (for dust class L, M)": "967 - 970",
+      "Height (mm) (for dust class H)": "1.040 - 1.610",
+      "Width (mm)": "520",
+      "Length (mm)": "850",
+      "Protection class IP": "54/65",
+      "Capacity (litres)": "35",
+      "Suction connection (mm)": "50/70"
+    },
+    "features": [
+      "Low dust change of the disposal tray",
+      "Cyclone type form of separation",
+      "Deposition of the fine dust particles",
+      "Manometer monitoring"
+    ],
+    "applications": [
+      "Additive manufacturing",
+      "Automotive",
+      "Construction + Craft",
+      "Chemistry",
+      "Industry general",
+      "Plastics processing",
+      "Agriculture",
+      "Food",
+      "Metalworking",
+      "According to ATEX Directive 2014/34/EU and the basic requirements of TRGS 727 for the following areas of application:",
+      "Use in zone 1 or 2 gas explosion hazardous areas.",
+      "Suitable for holding combustible dusts",
+      "Absorption of highly insulating substances",
+      "Optionally for the absorption of carcinogenic, mutagenic or health-endangering substances",
+      "Optionally for use in zone 21 or 22 in dust explosion hazardous areas"
+    ],
+    "detailImages": [
+      "https://www.ruwac.asia/fileadmin/_processed_/8/a/csm_industriesauger-drehstromantrieb-gasex-ds1-r3317d_42743fe771.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/7/f/csm_evonik-chemie-ds1-gasex-ruwac-mood-2957_abb4bed4a2.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/d/6/csm_gfk-cfk-staeube-absaugen-ds1220-gasEx-schunk-heuchelheim-ruwac-mood-2330_014d5d2298.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/f/e/csm_giftstoffe-aufsaugen-ds1400-gasEx-feuerwehr-bremerhaven-ruwac-mood-1306_Bremerhaven03_4b5786c16e.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/8/a/csm_industriesauger-drehstromantrieb-gasex-ds1-r3317d_f3debc1281.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/7/f/csm_evonik-chemie-ds1-gasex-ruwac-mood-2957_1010298762.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/d/6/csm_gfk-cfk-staeube-absaugen-ds1220-gasEx-schunk-heuchelheim-ruwac-mood-2330_f5ec9def3e.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/f/e/csm_giftstoffe-aufsaugen-ds1400-gasEx-feuerwehr-bremerhaven-ruwac-mood-1306_Bremerhaven03_52ebddafad.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/2/6/csm_ds1_staubarmer_wechsel_der_entsorgungswanne_ruwac_cde28162cf.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/3/d/csm_ds1_zyklonartige_abscheidung_ruwac_98a080560c.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/f/d/csm_ds1_ablagern_der_feinstaubpartikel_ruwac_619bb95e77.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/3/1/csm_ds1_ueberwachung_manometer_ruwac_c956374c0c.png"
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "title": "R01 S - DustEx",
+  "modelName": "R01 S - DustEx",
+  "category": "Industrial Vacuum Cleaners",
+  "subcategory": "Overview",
+  "categoryPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models",
+  "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/r01-s-staubex",
+  "description": null,
+  "features": [
+    "Different disposal systems",
+    "Version with sound pressure level: 57 dB(A)"
+  ],
+  "categoryImages": [
+    "drehstromantrieb-direkt-r01-s-da1-ruwac-freisteller-3320f.webp"
+  ],
+  "detailInfo": {
+    "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/r01-s-staubex",
+    "pageTitle": "R01 S",
+    "fullDescription": null,
+    "technicalSpecs": {
+      "Housing": "GRP",
+      "Motor power (kW)": "1,1 - 4",
+      "Voltage (Volt)": "230 - 400",
+      "Underpressure (mbar)": "-137 - -390",
+      "Air flow rate (m³/h) (measured with 3m hose)": "200 - 355",
+      "Sound pressure level (dB(A)) (DIN EN ISO 3744)": "57 - 68",
+      "Height (mm) (for dust class L, M)": "925 - 1.570",
+      "Height (mm) (for dust class H)": "1.175 - 1.820",
+      "Width (mm)": "525",
+      "Length (mm)": "850",
+      "Protection class IP": "54/65"
+    },
+    "features": [
+      "Cyclone type form of separation",
+      "Deposition of the fine dust particles",
+      "Accessories that always fit",
+      "Low dust change of the disposal tray"
+    ],
+    "applications": [
+      "Additive manufacturing",
+      "Automotive",
+      "Construction + Craft",
+      "Chemistry",
+      "Industry general",
+      "Plastics processing",
+      "Agriculture",
+      "Food",
+      "Metalworking"
+    ],
+    "detailImages": [
+      "https://www.ruwac.asia/fileadmin/_processed_/1/d/csm_drehstromantrieb-direkt-r01-s-da1-staubex-ruwac-freisteller-3320f_48ab412d2c.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/d/1/csm_r01-s-da1300-ruwac-mood-4020c_ed34a59a3a.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/f/5/csm_pulverbeschichtung-amazone-werk-hude-r01-s-da1300_zone22-ruwac-mood-4166a_559b70aa37.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/1/d/csm_drehstromantrieb-direkt-r01-s-da1-staubex-ruwac-freisteller-3320f_0972a926b3.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/d/1/csm_r01-s-da1300-ruwac-mood-4020c_e7c1062e0d.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/f/5/csm_pulverbeschichtung-amazone-werk-hude-r01-s-da1300_zone22-ruwac-mood-4166a_10eaacf25c.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/3/d/csm_ds1_zyklonartige_abscheidung_ruwac_98a080560c.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/f/d/csm_ds1_ablagern_der_feinstaubpartikel_ruwac_619bb95e77.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/8/d/csm_ds1_passgenaues_zubehoer_ruwac_c7c7fc9a2e.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/2/6/csm_ds1_staubarmer_wechsel_der_entsorgungswanne_ruwac_cde28162cf.png"
+    ]
+  }
+}

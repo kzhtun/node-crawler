@@ -1,0 +1,56 @@
+{
+  "title": "NA35",
+  "modelName": "NA35",
+  "category": "Industrial Vacuum Cleaners",
+  "subcategory": "Overview",
+  "categoryPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models",
+  "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/na35",
+  "description": null,
+  "features": [
+    "Flexible through modular system",
+    "Used in pyrotechnics among others"
+  ],
+  "categoryImages": [
+    "nassabscheider-na35-ruwac-freisteller-3321b.webp"
+  ],
+  "detailInfo": {
+    "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/na35",
+    "pageTitle": "NA35",
+    "fullDescription": null,
+    "technicalSpecs": {
+      "Housing": "GRP",
+      "Motor power (kW)": "1,5 - 4",
+      "Voltage (Volt)": "400",
+      "Underpressure (mbar)": "-180 - -213",
+      "Air flow rate (m³/h) (measured with 3m hose)": "250 - 350",
+      "Sound pressure level (dB(A)) (DIN EN ISO 3744)": "64 - 70",
+      "Residual Dust filter for dust class H (m²)": "3,2",
+      "Cartridge filter for dust class M (m²)": "2 x 1,7",
+      "Height (mm) (for dust class L, M)": "1.480 - 1.490",
+      "Width (mm)": "540 - 700",
+      "Length (mm)": "840",
+      "Protection class IP": "55/65",
+      "Capacity (litres)": "35"
+    },
+    "features": [],
+    "applications": [
+      "Additive manufacturing",
+      "Automotive",
+      "Construction + Craft",
+      "Chemistry",
+      "Industry general",
+      "Plastics processing",
+      "Agriculture",
+      "Food",
+      "Metalworking"
+    ],
+    "detailImages": [
+      "https://www.ruwac.asia/fileadmin/_processed_/2/a/csm_nassabscheider-na35-ruwac-freisteller-3321b_60309d0d05.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/8/c/csm_additive-fertigung-3ddrucker-eos-na35-nassabscheider-ruwac-mood-3729b_6e42e4edfb.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/2/1/csm_kunststoffstaeube-saugen-na35-staubEx-nassabscheider-neue-materialien-nuernberg-ruwac-mood-2355b_65c8dff17d.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/2/a/csm_nassabscheider-na35-ruwac-freisteller-3321b_31fdca75fb.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/8/c/csm_additive-fertigung-3ddrucker-eos-na35-nassabscheider-ruwac-mood-3729b_a6fd9aedd7.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/2/1/csm_kunststoffstaeube-saugen-na35-staubEx-nassabscheider-neue-materialien-nuernberg-ruwac-mood-2355b_011dbb8a7a.jpg"
+    ]
+  }
+}

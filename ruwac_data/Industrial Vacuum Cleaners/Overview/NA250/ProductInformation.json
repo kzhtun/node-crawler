@@ -1,0 +1,59 @@
+{
+  "title": "NA250",
+  "modelName": "NA250",
+  "category": "Industrial Vacuum Cleaners",
+  "subcategory": "Overview",
+  "categoryPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models",
+  "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/na250",
+  "description": null,
+  "features": [
+    "The largest wet separators from Ruwac",
+    "Additional filter for residual dust class M/H possible"
+  ],
+  "categoryImages": [
+    "abscheider-ohne-antrieb-staubex-gasex-na250-ruwac-3296c.webp"
+  ],
+  "detailInfo": {
+    "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/na250",
+    "pageTitle": "NA250",
+    "fullDescription": "H possibleEasy emptying and cleaningExecution in steel plate or VA275 liters capacity",
+    "technicalSpecs": {
+      "Housing": "Stainless steel/Sheet steel",
+      "Cartridge filter for dust class M (m²)": "10",
+      "Height (mm) (for dust class L, M)": "1.100 - 1.820",
+      "Width (mm)": "580 - 930",
+      "Length (mm)": "985 - 1.860",
+      "Capacity (litres)": "75 - 300",
+      "Suction connection (mm)": "50 - 100"
+    },
+    "features": [
+      "Separation of transport air via residual dust filter",
+      "Binding of the particles in the liquid",
+      "Practical emptying and cleaning",
+      "Additional safety due to degassing valve"
+    ],
+    "applications": [
+      "Additive manufacturing",
+      "Automotive",
+      "Construction + Craft",
+      "Chemistry",
+      "Industry general",
+      "Plastics processing",
+      "Agriculture",
+      "Food",
+      "Metalworking"
+    ],
+    "detailImages": [
+      "https://www.ruwac.asia/fileadmin/_processed_/5/e/csm_abscheider-ohne-antrieb-staubex-gasex-na250-ruwac-3296c_7dfa434914.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/2/9/csm_explosivstaeube-aufsaugen-na250-nassabscheider-trw-airbag-systems-aschau-ruwac-mood-2353_7a923e95d5.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/9/0/csm_wasser-pulver-gemische-saugen-na250-garlock-neuss-ruwac-mood-1089_3d8e1b2c1b.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/5/e/csm_abscheider-ohne-antrieb-staubex-gasex-na250-ruwac-3296c_11df6b4221.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/2/9/csm_explosivstaeube-aufsaugen-na250-nassabscheider-trw-airbag-systems-aschau-ruwac-mood-2353_9951a79ba0.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/9/0/csm_wasser-pulver-gemische-saugen-na250-garlock-neuss-ruwac-mood-1089_10b373b753.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/e/2/csm_NA250_Nassabscheider_abscheiden_der_Transportluft_ueber_Reststaubfilter_ruwac_65bfc9e5ad.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/3/8/csm_na250_nassabscheider_Bindung_der_Partikel_in_Fl%C3%BCssigkeit_ruwac_255ce3aeb9.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/a/8/csm_na250_Praktische__Entleerung_und_Reinigung_ruwac_0501180687.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/b/d/csm_na250_Zusaetzliche_Sicherheit_durch_Entgasungsventil_ruwac_4c969c46ce.png"
+    ]
+  }
+}

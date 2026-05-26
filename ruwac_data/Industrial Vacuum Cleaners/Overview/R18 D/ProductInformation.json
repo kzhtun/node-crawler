@@ -1,0 +1,61 @@
+{
+  "title": "R18 D",
+  "modelName": "R18 D",
+  "category": "Industrial Vacuum Cleaners",
+  "subcategory": "Overview",
+  "categoryPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models",
+  "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/r18-d-akkusauger",
+  "description": null,
+  "features": [
+    "Easy emptying and cleaning",
+    "Handy, compact, and lightweight"
+  ],
+  "categoryImages": [
+    "akkusauger_ruwac_r18__1_.webp"
+  ],
+  "detailInfo": {
+    "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/r18-d-akkusauger",
+    "pageTitle": "R18 D",
+    "fullDescription": null,
+    "technicalSpecs": {
+      "Housing": "Stainless steel",
+      "Motor power (kW)": "0,95",
+      "Voltage (Volt)": "48",
+      "Underpressure (mbar)": "-220",
+      "Air flow rate (m³/h) (measured with 3m hose)": "221",
+      "Sound pressure level (dB(A)) (DIN EN ISO 3744)": "75",
+      "Channel filter for dust class M (m²)": "0,8",
+      "Residual Dust filter for dust class H (m²)": "1,1",
+      "Height (mm) (for dust class H)": "860",
+      "Width (mm)": "530",
+      "Length (mm)": "425",
+      "Protection class IP": "x4",
+      "Capacity (litres)": "21",
+      "Suction connection (mm)": "50"
+    },
+    "features": [],
+    "applications": [
+      "Additive manufacturing",
+      "Automotive",
+      "Construction + Craft",
+      "Chemistry",
+      "Industry general",
+      "Plastics processing",
+      "Agriculture",
+      "Food",
+      "Metalworking"
+    ],
+    "detailImages": [
+      "https://www.ruwac.asia/fileadmin/_processed_/1/c/csm_akkusauger_ruwac_r18_f85a8ae054.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/9/d/csm_22-4791_r18_2a928533fc.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/b/b/csm_22-4802b_r18_akku_edelstahl_378566e9bb.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/8/e/csm_22-4821_ruwac_r18_08ec6fe349.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/e/f/csm_22-4823_ruwac_r18_9fb95a1170.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/1/c/csm_akkusauger_ruwac_r18_d11b3ecf56.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/9/d/csm_22-4791_r18_827519de26.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/b/b/csm_22-4802b_r18_akku_edelstahl_ea327cad5d.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/8/e/csm_22-4821_ruwac_r18_bcbd948b8f.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/e/f/csm_22-4823_ruwac_r18_adc560780d.jpg"
+    ]
+  }
+}

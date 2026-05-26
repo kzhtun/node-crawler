@@ -1,0 +1,69 @@
+{
+  "title": "R07 A",
+  "modelName": "R07 A",
+  "category": "Industrial Vacuum Cleaners",
+  "subcategory": "Overview",
+  "categoryPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models",
+  "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/r07-a",
+  "description": null,
+  "features": [
+    "Electrical components are UL-approved",
+    "Stainless steel trolley for comfortable removal/transport of the liquid container"
+  ],
+  "categoryImages": [
+    "nassabscheider-wechselstromantrieb-na7-ruwac-freisteller-3993_01.webp"
+  ],
+  "detailInfo": {
+    "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/r07-a",
+    "pageTitle": "R07 A / NA7-26",
+    "fullDescription": "NA7-26Suitable for the extraction of explosive dusts, sticky or explosive dusts, propellant powder residues, explosives, titanium, aluminum or magnesium dusts, among others).Electrical components are UL-approved (conformity with North American safety requirements)Stainless steel trolley for convenient removal and safe transport of the liquid container",
+    "technicalSpecs": {
+      "Housing": "Sheet steel",
+      "Motor power (kW)": "2,6/2,89",
+      "Voltage (Volt)": "230/240",
+      "Underpressure (mbar)": "-160",
+      "Underpressure (short-term) (mbar)": "-210",
+      "Air flow rate (m³/h) (measured with 3m hose)": "220",
+      "Sound pressure level (dB(A)) (DIN EN ISO 3744)": "68",
+      "Filter cartridge dust class H (m²)": "3 x 0,1",
+      "Height (mm) (for dust class L, M)": "835/880",
+      "Width (mm)": "495/580",
+      "Length (mm)": "740",
+      "Protection class IP": "5x",
+      "Capacity (litres)": "7",
+      "Suction connection (mm)": "50",
+      "Frequency (Hz)": "50/60",
+      "Water consumption (L/h)": "0,6",
+      "Fluid container": "Stainless steel"
+    },
+    "features": [
+      "Easy transport thanks to trolley",
+      "Suction only with liquid container",
+      "Optical level monitoring",
+      "Potential cable with mechanical sensing"
+    ],
+    "applications": [
+      "Additive manufacturing",
+      "Automotive",
+      "Construction + Craft",
+      "Chemistry",
+      "Industry general",
+      "Plastics processing",
+      "Agriculture",
+      "Food",
+      "Metalworking"
+    ],
+    "detailImages": [
+      "https://www.ruwac.asia/fileadmin/_processed_/f/3/csm_nassabscheider-wechselstromantrieb-na7-ruwac-freisteller-3993_01_a4a4cdbc5a.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/f/6/csm_additive-fertigung-3ddrucker-conceptlaser-hamburg-na7-26-nassabscheider-ruwac-mood-3732c_d86e3318ca.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/9/4/csm_additive-fertigung-3d-druck-realizer-paderborn-na7-26-ruwac-mood-3214_4e13b8acf3.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/f/3/csm_nassabscheider-wechselstromantrieb-na7-ruwac-freisteller-3993_01_da0f5d46a0.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/f/6/csm_additive-fertigung-3ddrucker-conceptlaser-hamburg-na7-26-nassabscheider-ruwac-mood-3732c_fd51965d58.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/9/4/csm_additive-fertigung-3d-druck-realizer-paderborn-na7-26-ruwac-mood-3214_6187b439f6.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/0/1/csm_NA7-26_einfacher_Transport_dank_fahrwagen_b801ab7be8.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/e/f/csm_NA7-26_saugen_nur_mit_fluessigkeitsbehaelter_47e5cdee04.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/3/d/csm_NA7-26_optische_fuellstandsueberwachung_a074d91e1b.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/d/2/csm_NA7-26_potentialkabel_mit_mechanischer_abfrage_c8d1cb4138.png"
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "title": "R13",
+  "modelName": "R13",
+  "category": "Industrial Vacuum Cleaners",
+  "subcategory": "Overview",
+  "categoryPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models",
+  "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/r13",
+  "description": null,
+  "features": [
+    "Extremely quiet, only 64 dB (A)",
+    "Designed for contamination-free disposal"
+  ],
+  "categoryImages": [
+    "B-21-4507_R13.webp"
+  ],
+  "detailInfo": {
+    "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/r13",
+    "pageTitle": "R13",
+    "fullDescription": "7ESD-capable (conductive powder coating)Designed for contamination-free disposalExtremely quiet, only 64 dB (A)",
+    "technicalSpecs": {
+      "Housing": "Sheet steel",
+      "Motor power (kW)": "3,0",
+      "Voltage (Volt)": "400",
+      "Underpressure (mbar)": "-240",
+      "Underpressure (short-term) (mbar)": "-335",
+      "Sound pressure level (dB(A)) (DIN EN ISO 3744)": "64",
+      "Pocket filter for dust class L, M (m²)": "1,2",
+      "Residual Dust filter for dust class H (m²)": "3,0",
+      "Height (mm) (for dust class L, M)": "1.950",
+      "Width (mm)": "500",
+      "Length (mm)": "600",
+      "Protection class IP": "65",
+      "Capacity (litres)": "35",
+      "Suction connection (mm)": "70",
+      "Type of cleaning": "manual/electrical cleaning (filter cleaning)"
+    },
+    "features": [],
+    "applications": [
+      "Additive manufacturing",
+      "Automotive",
+      "Construction + Craft",
+      "Chemistry",
+      "Industry general",
+      "Plastics processing",
+      "Agriculture",
+      "Food",
+      "Metalworking"
+    ],
+    "detailImages": [
+      "https://www.ruwac.asia/fileadmin/_processed_/3/b/csm_drehstromantrieb-direkt-R13-1_42a72dd134.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/a/4/csm_drehstromantrieb-direkt-R13-2_7332210def.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/3/4/csm_drehstromantrieb-direkt-R13-4_72f8c6aef8.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/4/5/csm_drehstromantrieb-direkt-R13-6_f271946509.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/3/b/csm_drehstromantrieb-direkt-R13-1_1bc77b86b7.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/a/4/csm_drehstromantrieb-direkt-R13-2_0b9917b4bd.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/3/4/csm_drehstromantrieb-direkt-R13-4_c291b820dc.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/4/5/csm_drehstromantrieb-direkt-R13-6_1dac2c2f37.jpg",
+      "https://www.ruwac.asia/fileadmin/media/produkte/03_industriesauger_drehstromantrieb_direkt/R13/R13-Illu-2.png"
+    ]
+  }
+}

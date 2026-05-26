@@ -1,0 +1,58 @@
+{
+  "title": "DS 2",
+  "modelName": "DS 2",
+  "category": "Industrial Vacuum Cleaners",
+  "subcategory": "Overview",
+  "categoryPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models",
+  "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/ds2",
+  "description": null,
+  "features": [
+    "Housing made of GRP",
+    "Variety through modular system"
+  ],
+  "categoryImages": [
+    "drehstromantrieb-ds2-staubex-ruwac-freisteller-3327c.webp"
+  ],
+  "detailInfo": {
+    "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/ds2",
+    "pageTitle": "DS2",
+    "fullDescription": null,
+    "technicalSpecs": {
+      "Housing": "GRP",
+      "Motor power (kW)": "4 - 7,5",
+      "Voltage (Volt)": "400",
+      "Underpressure (mbar)": "-170 - -230",
+      "Air flow rate (m³/h) (measured with 3m hose)": "410 - 820",
+      "Sound pressure level (dB(A)) (DIN EN ISO 3744)": "67 - 77",
+      "Pocket filter for dust class L, M (m²)": "2,4/4,5",
+      "Residual Dust filter for dust class H (m²)": "3,2 - 4,8",
+      "Height (mm) (for dust class L, M)": "1.260 - 2.155",
+      "Height (mm) (for dust class H)": "1.450"
+    },
+    "features": [
+      "Practical foot lever discharge",
+      "Accessories that always fit",
+      "Simple and effective hand cleaning",
+      "Low dust change of the disposal tray"
+    ],
+    "applications": [
+      "Additive manufacturing",
+      "Automotive",
+      "Construction + Craft",
+      "Chemistry",
+      "Industry general",
+      "Plastics processing",
+      "Agriculture",
+      "Food",
+      "Metalworking"
+    ],
+    "detailImages": [
+      "https://www.ruwac.asia/fileadmin/_processed_/3/8/csm_drehstromantrieb-ds2-staubex-ruwac-freisteller-3327c_d6a01339d8.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/3/8/csm_drehstromantrieb-ds2-staubex-ruwac-freisteller-3327c_e441e9d215.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/c/e/csm_ds1_praktische_fusshebelentleerung_ruwac_0a0a43700d.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/8/d/csm_ds1_passgenaues_zubehoer_ruwac_c7c7fc9a2e.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/8/9/csm_ds1_effektive_handabreinigung_ruwac_824a5048df.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/2/6/csm_ds1_staubarmer_wechsel_der_entsorgungswanne_ruwac_cde28162cf.png"
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "title": "WSP 2000",
+  "modelName": "WSP 2000",
+  "category": "Industrial Vacuum Cleaners",
+  "subcategory": "Overview",
+  "categoryPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models",
+  "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/wsp-2000",
+  "description": null,
+  "features": [
+    "Powerful suction with 1.2 kW",
+    "Easy cleaning with removable pump"
+  ],
+  "categoryImages": [
+    "Wassersauger_wsp_4371_01.webp"
+  ],
+  "detailInfo": {
+    "detailPageUrl": "https://www.ruwac.asia/industrial-vacuum-cleaner/overview-of-models/detail-view/wsp-2000",
+    "pageTitle": "WSP 2000",
+    "fullDescription": null,
+    "technicalSpecs": {
+      "Housing": "GRP",
+      "Motor power (kW)": "1,2",
+      "Voltage (Volt)": "230",
+      "Underpressure (mbar)": "-230",
+      "Air flow rate (m³/h) (measured with 3m hose)": "174",
+      "Width (mm)": "690",
+      "Length (mm)": "820",
+      "Protection class IP": "x4",
+      "Capacity (litres)": "45 - 100",
+      "Suction connection (mm)": "50",
+      "Pump down connection \"fire department - version\"": "Storz coupling (optional)",
+      "Pump motorpower (kW)": "0,83",
+      "Pump flow rate": "6,5",
+      "Max. pumping head": "9,5"
+    },
+    "features": [
+      "Ground clearance due to balloon wheels",
+      "Pump easily removable",
+      "Simplest drainage through ball valve",
+      "Bottom opening for residual and coarse dirt emptying"
+    ],
+    "applications": [
+      "Additive manufacturing",
+      "Automotive",
+      "Construction + Craft",
+      "Chemistry",
+      "Industry general",
+      "Plastics processing",
+      "Agriculture",
+      "Food",
+      "Metalworking"
+    ],
+    "detailImages": [
+      "https://www.ruwac.asia/fileadmin/_processed_/5/e/csm_wassersauger-wsp2000-ruwac-freisteller-4371_c582f5d41a.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/3/9/csm_wassersaugen-wsp2000-stueken-rinteln-ruwac-mood-2012_374d6cca15.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/0/d/csm_wasserreste-aussaugen-wsp2000-miele-guetersloh-ruwac-mood-2424_72ab49e5ab.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/1/0/csm_wassersauger_wsp2000_kfz_werkstatt_ruwac_mood_4a0f299f80.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/8/2/csm_metallspaene-wsp_nmf_Uni-Nuernberg_ruwac-mood-2358_b8d7673d15.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/5/e/csm_wassersauger-wsp2000-ruwac-freisteller-4371_96984bfe79.png",
+      "https://www.ruwac.asia/fileadmin/_processed_/3/9/csm_wassersaugen-wsp2000-stueken-rinteln-ruwac-mood-2012_0b78d0ff57.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/0/d/csm_wasserreste-aussaugen-wsp2000-miele-guetersloh-ruwac-mood-2424_b2c15f41be.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/1/0/csm_wassersauger_wsp2000_kfz_werkstatt_ruwac_mood_6436ed1127.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/8/2/csm_metallspaene-wsp_nmf_Uni-Nuernberg_ruwac-mood-2358_3e19d3f312.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/1/f/csm_WSP2000_Bodenfreiheit_durch_ballonraeder_4371_d258e1d085.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/d/1/csm_WSP2000_pumpe_leicht_herausnehmbar-1119-a_093b5aa82b.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/6/9/csm_WSP2000_einfachste_entleerung_kugelhahn-4372_6231207a35.jpg",
+      "https://www.ruwac.asia/fileadmin/_processed_/8/f/csm_wsp2000_bodenoeffnung_schmutzentleerung-4372_b1ba5c2bcf.jpg"
+    ]
+  }
+}
