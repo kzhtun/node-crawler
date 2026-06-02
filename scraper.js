@@ -105,7 +105,7 @@ class RuwacScraper {
 
       // Skip if already downloaded
       if (await fs.pathExists(filepath)) {
-        return filename;
+        return imgUrl;
       }
 
       // Download image
@@ -113,7 +113,7 @@ class RuwacScraper {
       await fs.writeFile(filepath, response.data);
 
       logger.debug(`  ✓ Downloaded image: ${filename}`);
-      return filename;
+      return imgUrl;
     } catch (error) {
       logger.debug(`Failed to download image ${imgUrl}: ${error.message}`);
       return null;
@@ -128,13 +128,40 @@ class RuwacScraper {
       technicalSpecs: {},
       features: [],
       applications: [],
-      detailImages: []
+      detailImages: [],
+      brochureUrl: null
     };
+
 
     const response = await this.getPage(detailUrl);
     if (!response) return detailInfo;
 
     const $ = cheerio.load(response.data);
+
+    // Extract brochure PDF link (Download brochure)
+    // Look for anchor with text containing 'Download brochure' or href ending with .pdf
+    let brochureLink = null;
+    $('a').each((i, elem) => {
+      const $a = $(elem);
+      const text = $a.text().toLowerCase();
+      const href = $a.attr('href');
+      if (href && href.endsWith('.pdf') && (text.includes('brochure') || text.includes('download'))) {
+        brochureLink = new URL(href, this.baseUrl).toString();
+        return false; // break
+      }
+    });
+    // Fallback: any .pdf link
+    if (!brochureLink) {
+      $('a').each((i, elem) => {
+        const $a = $(elem);
+        const href = $a.attr('href');
+        if (href && href.endsWith('.pdf')) {
+          brochureLink = new URL(href, this.baseUrl).toString();
+          return false;
+        }
+      });
+    }
+    detailInfo.brochureUrl = brochureLink;
 
     // Extract page title
     const titleElem = $('h1, .product-name').first();
@@ -285,10 +312,8 @@ class RuwacScraper {
       });
     }
 
-    const productMaxCount = Math.min(productContainers.length, 3);
-
-    // Process products (limit to 30 per page)
-    for (let i = 0; i < productMaxCount; i++) {
+    // Process all products found
+    for (let i = 0; i < productContainers.length; i++) {
       try {
         const container = productContainers[i];
         const $container = $(container);
@@ -439,6 +464,8 @@ class RuwacScraper {
 
     let totalProducts = 0;
     for (const [categoryName, subcategories] of Object.entries(categories)) {
+      if (categoryName !== 'Industrial Vacuum Cleaners') continue;
+
       logger.info(`\n${'='.repeat(70)}`);
       logger.info(`Category: ${categoryName}`);
       logger.info('='.repeat(70));
